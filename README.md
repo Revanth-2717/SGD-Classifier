@@ -65,13 +65,16 @@ print(cm)
 ## Output:
 
 dataset
+
 ![dataset](https://github.com/user-attachments/assets/45f19d3d-49d4-403b-89f3-8a71fc9618f0)
 
 classifier's accuracy
+
 ![classifier](https://github.com/user-attachments/assets/07cdfbc9-18b2-4368-b512-3c2407e7de0e)
 
 
 confusion matrix
+
 ![CONFUSION MATRIX](https://github.com/user-attachments/assets/0c04abd4-0ac8-42a5-8318-daccd7d4085c)
 
 
